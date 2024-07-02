@@ -1,0 +1,432 @@
+
+                Thu Jun 27 14:57:09 2024
+[2024/06/27@14:57:09.046+0200] P-3666167    T-3666167 I DBUTIL   : (451)   prostrct create session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@14:57:09.047+0200] P-3666167    T-3666167 I DBUTIL   : (12862) Structure file sp128.st used to create database with blocksize 4096. 
+[2024/06/27@14:57:09.049+0200] P-3666167    T-3666167 I DBUTIL   : (334)   prostrct create session end. 
+[2024/06/27@14:57:09.050+0200] P-3666167    T-3666167 I DBUTIL   : (451)   procopy session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@14:57:09.127+0200] P-3666167    T-3666167 I DBUTIL   : (334)   procopy session end. 
+
+                Thu Jun 27 14:57:09 2024
+[2024/06/27@14:57:09.138+0200] P-3666167    T-3666167 I DBUTIL   : (451)   procopy get default SQL DBA session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@14:57:09.138+0200] P-3666167    T-3666167 I DBUTIL   : (15321) Before Image Log Initialisation at block 0  offset 0. 
+[2024/06/27@14:57:09.161+0200] P-3666167    T-3666167 I DBUTIL   : (1365)  Database copied from /usr/dlc/sports2000. 
+[2024/06/27@14:57:09.166+0200] P-3666167    T-3666167 I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@14:57:09.166+0200] P-3666167    T-3666167 I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@14:57:09.167+0200] P-3666167    T-3666167 I DBUTIL   : (334)   procopy get default SQL DBA session end. 
+
+                Thu Jun 27 14:57:19 2024
+[2024/06/27@14:57:19.990+0200] P-3666218    T-3666218 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@14:57:19.990+0200] P-3666218    T-3666218 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@14:57:19.995+0200] P-3666218    T-3666218 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/06/27@15:05:06.326+0200] P-3666218    T-3666218 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@15:05:06.326+0200] P-3666218    T-3666218 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@15:05:06.327+0200] P-3666218    T-3666218 I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 27 15:05:35 2024
+[2024/06/27@15:05:35.475+0200] P-3672084    T-3672084 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@15:05:35.476+0200] P-3672084    T-3672084 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@15:05:35.480+0200] P-3672084    T-3672084 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/06/27@15:05:39.109+0200] P-3672084    T-3672084 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@15:05:39.109+0200] P-3672084    T-3672084 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@15:05:39.110+0200] P-3672084    T-3672084 I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 27 15:05:43 2024
+[2024/06/27@15:05:43.949+0200] P-3672185    T-3672185 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@15:05:43.949+0200] P-3672185    T-3672185 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@15:05:43.953+0200] P-3672185    T-3672185 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/06/27@15:07:00.709+0200] P-3672185    T-3672185 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@15:07:00.709+0200] P-3672185    T-3672185 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@15:07:00.710+0200] P-3672185    T-3672185 I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 27 15:07:32 2024
+[2024/06/27@15:07:32.848+0200] P-3673439    T-3673439 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@15:07:32.848+0200] P-3673439    T-3673439 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@15:07:32.852+0200] P-3673439    T-3673439 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/06/27@15:07:41.940+0200] P-3673439    T-3673439 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@15:07:41.940+0200] P-3673439    T-3673439 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@15:07:41.941+0200] P-3673439    T-3673439 I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 27 15:49:24 2024
+[2024/06/27@15:49:24.604+0200] P-3708226    T-3708226 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@15:49:24.604+0200] P-3708226    T-3708226 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@15:49:24.609+0200] P-3708226    T-3708226 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/06/27@15:49:33.402+0200] P-3708226    T-3708226 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/27@15:49:33.402+0200] P-3708226    T-3708226 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/27@15:49:33.403+0200] P-3708226    T-3708226 I ABL      : (334)   Single-user session end. 
+
+                Thu Jun 27 15:49:41 2024
+[2024/06/27@15:49:41.237+0200] P-3708374    T-3708374 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/14. 
+[2024/06/27@15:49:41.237+0200] P-3708374    T-3708374 I ABL      : (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/06/27@15:49:41.242+0200] P-3708374    T-3708374 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Fri Jun 28 00:05:28 2024
+[2024/06/28@00:05:28.000+0000] P-3708374    T-3708374 I ABL      : (562)   HANGUP signal received. 
+[2024/06/28@02:05:28.349+0200] P-3708374    T-3708374 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/06/28@02:05:28.349+0200] P-3708374    T-3708374 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/06/28@02:05:28.351+0200] P-3708374    T-3708374 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:28:01 2024
+[2024/07/01@14:28:01.052+0200] P-1715273    T-1715273 I ABL      : (451)   Single-user session begin for cvb@CCE.local on batch. 
+[2024/07/01@14:28:01.080+0200] P-1715273    T-1715273 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:28:12.285+0200] P-1715273    T-1715273 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:28:12 2024
+[2024/07/01@14:28:12.876+0200] P-1715342    T-1715342 I ABL      : (451)   Single-user session begin for cvb@CCE.local on batch. 
+[2024/07/01@14:28:12.877+0200] P-1715342    T-1715342 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Mon Jul  1 14:31:04 2024
+[2024/07/01@14:31:04.682+0200] P-1716061    T-1716061 I DBUTIL   : (451)   prostrct repair session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:31:04.686+0200] P-1716061    T-1716061 I DBUTIL   : (334)   prostrct repair session end. 
+[2024/07/01@14:31:11.683+0200] P-1715342    T-1715342 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:33:18 2024
+[2024/07/01@14:33:18.781+0200] P-1717466    T-1717466 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:33:18.783+0200] P-1717466    T-1717466 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:33:43.176+0200] P-1717466    T-1717466 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:33:55 2024
+[2024/07/01@14:33:55.843+0200] P-1717717    T-1717717 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:33:55.845+0200] P-1717717    T-1717717 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:33:55.862+0200] P-1717717    T-1717717 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:34:16 2024
+[2024/07/01@14:34:16.890+0200] P-1717818    T-1717818 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:34:16.891+0200] P-1717818    T-1717818 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:34:16.930+0200] P-1717818    T-1717818 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:34:36 2024
+[2024/07/01@14:34:36.704+0200] P-1717914    T-1717914 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:34:36.706+0200] P-1717914    T-1717914 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:34:36.753+0200] P-1717914    T-1717914 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:40:33 2024
+[2024/07/01@14:40:33.889+0200] P-1719716    T-1719716 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:40:33.891+0200] P-1719716    T-1719716 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:40:33.892+0200] P-1719716    T-1719716 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:40:33 2024
+[2024/07/01@14:40:33.901+0200] P-1719717    T-1719717 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:40:33.902+0200] P-1719717    T-1719717 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:40:33.948+0200] P-1719717    T-1719717 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:43:48 2024
+[2024/07/01@14:43:48.560+0200] P-1721006    T-1721006 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@14:43:48.561+0200] P-1721006    T-1721006 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:51:17.140+0200] P-1721006    T-1721006 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:58:15 2024
+[2024/07/01@14:58:15.899+0200] P-1727702    T-1727702 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/9. 
+[2024/07/01@14:58:15.901+0200] P-1727702    T-1727702 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:58:16.104+0200] P-1727702    T-1727702 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 14:58:16 2024
+[2024/07/01@14:58:16.113+0200] P-1727717    T-1727717 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/9. 
+[2024/07/01@14:58:16.115+0200] P-1727717    T-1727717 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@14:58:16.280+0200] P-1727717    T-1727717 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 15:18:33 2024
+[2024/07/01@15:18:33.657+0200] P-1740371    T-1740371 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/9. 
+[2024/07/01@15:18:33.658+0200] P-1740371    T-1740371 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/01@15:20:51.484+0200] P-1740371    T-1740371 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 15:20:59 2024
+[2024/07/01@15:20:59.454+0200] P-1743817    T-1743817 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/9. 
+[2024/07/01@15:20:59.454+0200] P-1743817    T-1743817 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul  1 15:21:28 2024
+[2024/07/01@15:21:28.840+0200] P-1744488    T-1744488 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/11. 
+[2024/07/01@15:21:28.842+0200] P-1744488    T-1744488 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Mon Jul  1 15:21:41 2024
+[2024/07/01@15:21:41.235+0200] P-1744864    T-1744864 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/9. 
+[2024/07/01@15:21:41.237+0200] P-1744864    T-1744864 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Mon Jul  1 16:19:43 2024
+[2024/07/01@16:19:43.548+0200] P-1773562    T-1773562 I BROKER  0: (333)   Multi-user session begin. 
+[2024/07/01@16:19:43.549+0200] P-1773562    T-1773562 I BROKER  0: (15321) Before Image Log Initialisation at block 0  offset 663. 
+[2024/07/01@16:19:43.556+0200] P-1773562    T-1773562 I BROKER  0: (452)   Login by cvb@CCE.local on /dev/pts/12. 
+[2024/07/01@16:19:43.557+0200] P-1773562    T-1773562 I BROKER  0: (5644)  Started for 28128 using TCP IPV4 address 0.0.0.0, pid 1773562. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19117) This installation is licensed to: CCE NV by /usr/dlc/progress.cfg 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19116) Product: Progress Dev AS for OE installed with serial number: 6204066 expiration: None. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19116) Product: OE Adv. Ent. RDBMS installed with serial number: 6204067 expiration: None. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19116) Product: 4GL Development System installed with serial number: 6204068 expiration: None. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19116) Product: Progress ProdAS for OE installed with serial number: 6204065 expiration: None. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19116) Product: OE Auth Gateway installed with serial number: 6204065 expiration: None. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (4234)  Progress OpenEdge Release 12.2 build 1492 SP14 on Linux cce-dev03 5.14.0-427.16.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Apr 26 18:16:09 EDT 2024 x86_64. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19552) Broker with server num 0 logged in. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (4281)  Server started by cvb@CCE.local on /dev/pts/12. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (6574)  Started using pid: 1773562. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (9426)  Large database file access has been enabled. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (15219) Encryption enabled: 0 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (19388) LRU mechanism enabled. 
+[2024/07/01@16:19:44.557+0200] P-1773562    T-1773562 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2024/07/01@16:19:44.558+0200] P-1773562    T-1773562 I BROKER  0: (9336)  Created shared memory with segment_id: 65544 
+[2024/07/01@16:19:44.558+0200] P-1773562    T-1773562 I BROKER  0: (4250)  Before-Image Cluster Size: 524288 
+[2024/07/01@16:19:44.558+0200] P-1773562    T-1773562 I BROKER  0: (4251)  Before-Image Block Size: 8192 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 64 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19091) Starting LOB number for statistics range (-baselob): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19092) Starting LOB number per user for statistics range (-baseuserlob): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 64 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12813) Allowed index cursors (-c): 84. 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4264)  Character Set (-cpinternal): UTF-8 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19442) C stack print option (-cstackPrintopt): 0 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4235)  Physical Database Name (-db): db/sp128 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19519) Number of DB Notification Operations (-dbnotifyops): 16 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19511) DB Notification Time (-dbnotifytime): 30 seconds 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (18580) Diagnostic procedure (-diagProc): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19195) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19216) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19215) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19213) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19214) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19212) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19137) Limit .lg file payload (-limitLgPayload): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (19090) Number of LOBs included in statistics collection (-lobrangesize): 50 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 100 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 100 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 2000 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 1025 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2024/07/01@16:19:44.559+0200] P-1773562    T-1773562 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 32000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19122) Omit .lg file messages (-omitLgMsgs):  
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 128.0 KBytes 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19347) Maximum nap time when blocked to access PICA queue (-picanap): 1 ms. 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 100 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 64 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 1 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19133) Schema Lock Wait Queue (-schlockwq): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 48000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19329) Database server side join support (-ssj): Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (-----) STS Socket Reuse (-stsSocketReuse): Yes
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19151) Threaded database server (-threadedServer): Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19159) Thread stack size for threaded database servers (-threadedServerStack): 512Kb 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19089) Number of lobs per user included in statistics collection (-userlobrangesize): 50 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18118) User Notification Time (-usernotifytime): 600 seconds 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (14017) Area block consistency check in area "" (-AreaCheck): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4261)  Host Name (-H): cce-dev03 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (14018) Index block consistency check in index "", partitionID -32767(-IndexCheck): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (14015) Memory overwrite check (-MemCheck): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (12818) Message Buffer Size (-Mm): 10240 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 42 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10357) Pending client connection time-out (-PendConnTime): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (4262)  Service Name (-S): 28128 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19342) SQL Autonomous Update Statistics (-SQLAutoStats): OFF 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 50 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17567) Number of seconds for a SQL client to wait for a lock conflict to be resolved (-SQLLockWaitTimeout): 5. 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (19134) SQL rowid identifier (-SQLQuotedRowid): Standard 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 1000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 100 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempBuff): 1000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempDisk): 500000 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempPageSize): 8 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (14019) Record block consistency check in table "", partitionID -32767(-TableCheck): Not Enabled 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2024/07/01@16:19:44.560+0200] P-1773562    T-1773562 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2024/07/01@16:19:44.561+0200] P-1773562    T-1773562 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2024/07/01@16:19:44.561+0200] P-1773562    T-1773562 I BROKER  0: (10471) Database connections have been enabled. 
+
+                Tue Jul  2 10:18:09 2024
+[2024/07/02@10:18:09.389+0200] P-1773562    T-1773562 I BROKER  0: (4195)  db/sp128.lk is missing, shutting down... 
+[2024/07/02@10:18:09.389+0200] P-1773562    T-1773562 I BROKER  0: (15192) The database will complete shutdown within approximately 60 seconds. 
+[2024/07/02@10:18:09.390+0200] P-1773562    T-1773562 I BROKER  0: (2249)  Begin ABNORMAL shutdown code 2 
+[2024/07/02@10:18:10.390+0200] P-1773562    T-1773562 I BROKER  0: (453)   Logout by cvb@CCE.local on /dev/pts/12. 
+[2024/07/02@10:18:11.391+0200] P-1773562    T-1773562 I BROKER   : (16869) Removed shared memory with segment_id: 65544 
+[2024/07/02@10:18:11.394+0200] P-1773562    T-1773562 I BROKER   : (334)   Multi-user session end. 
+
+                Tue Jul  2 10:28:01 2024
+[2024/07/02@10:28:01.354+0200] P-2155236    T-2155236 I DBUTIL   : (451)   prostrct repair session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@10:28:01.356+0200] P-2155236    T-2155236 I DBUTIL   : (334)   prostrct repair session end. 
+
+                Tue Jul  2 10:28:10 2024
+[2024/07/02@10:28:10.598+0200] P-2155289    T-2155289 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@10:28:10.599+0200] P-2155289    T-2155289 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@10:28:14.554+0200] P-2155289    T-2155289 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 10:28:21 2024
+[2024/07/02@10:28:21.417+0200] P-2155361    T-2155361 I DBUTIL   : (451)   prostrct repair session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@10:28:21.419+0200] P-2155361    T-2155361 I DBUTIL   : (334)   prostrct repair session end. 
+
+                Tue Jul  2 10:28:33 2024
+[2024/07/02@10:28:33.113+0200] P-2155431    T-2155431 I DBUTIL   : (451)   Truncate bi session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@10:28:33.116+0200] P-2155431    T-2155431 I DBUTIL   : (5326)  Begin Physical Redo Phase at 0 . 
+[2024/07/02@10:28:33.116+0200] P-2155431    T-2155431 I DBUTIL   : (7161)  Physical Redo Phase Completed at blk 0 off 663 upd 0. 
+[2024/07/02@10:28:33.117+0200] P-2155431    T-2155431 I DBUTIL   : (13547) At end of Physical redo, transaction table size is 5440. 
+[2024/07/02@10:28:33.119+0200] P-2155431    T-2155431 I DBUTIL   : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@10:28:33.131+0200] P-2155431    T-2155431 I DBUTIL   : (123)   .bi file truncated. 
+[2024/07/02@10:28:33.131+0200] P-2155431    T-2155431 I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2024/07/02@10:28:33.131+0200] P-2155431    T-2155431 I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 663. 
+[2024/07/02@10:28:33.132+0200] P-2155431    T-2155431 I DBUTIL   : (334)   Truncate bi session end. 
+
+                Tue Jul  2 10:28:51 2024
+[2024/07/02@10:28:51.097+0200] P-2155618    T-2155618 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@10:28:51.098+0200] P-2155618    T-2155618 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@10:29:02.970+0200] P-2155618    T-2155618 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 10:29:25 2024
+[2024/07/02@10:29:25.730+0200] P-2155909    T-2155909 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/23. 
+[2024/07/02@10:29:25.730+0200] P-2155909    T-2155909 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 10:29:33 2024
+[2024/07/02@10:29:33.483+0200] P-2156322    T-2156322 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/23. 
+[2024/07/02@10:29:33.484+0200] P-2156322    T-2156322 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Tue Jul  2 11:45:02 2024
+[2024/07/02@11:45:02.816+0200] P-2180097    T-2180097 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/22. 
+[2024/07/02@11:45:02.817+0200] P-2180097    T-2180097 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+
+                Tue Jul  2 11:54:23 2024
+[2024/07/02@11:54:23.610+0200] P-2184245    T-2184245 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@11:54:23.611+0200] P-2184245    T-2184245 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@11:54:23.612+0200] P-2184245    T-2184245 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 11:54:23 2024
+[2024/07/02@11:54:23.621+0200] P-2184246    T-2184246 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@11:54:23.623+0200] P-2184246    T-2184246 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@11:54:23.624+0200] P-2184246    T-2184246 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 11:54:57 2024
+[2024/07/02@11:54:57.493+0200] P-2184342    T-2184342 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@11:54:57.495+0200] P-2184342    T-2184342 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@11:54:57.496+0200] P-2184342    T-2184342 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 11:54:57 2024
+[2024/07/02@11:54:57.504+0200] P-2184343    T-2184343 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@11:54:57.505+0200] P-2184343    T-2184343 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@11:54:57.506+0200] P-2184343    T-2184343 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:10:32 2024
+[2024/07/02@12:10:32.831+0200] P-2189538    T-2189538 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:10:32.832+0200] P-2189538    T-2189538 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:10:35.468+0200] P-2189538    T-2189538 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:10:42 2024
+[2024/07/02@12:10:42.682+0200] P-2189639    T-2189639 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:10:42.684+0200] P-2189639    T-2189639 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:10:42.685+0200] P-2189639    T-2189639 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:12:19 2024
+[2024/07/02@12:12:19.275+0200] P-2190308    T-2190308 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:12:19.277+0200] P-2190308    T-2190308 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:12:24.453+0200] P-2190308    T-2190308 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:12:32 2024
+[2024/07/02@12:12:32.700+0200] P-2190397    T-2190397 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:12:32.702+0200] P-2190397    T-2190397 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:12:34.227+0200] P-2190397    T-2190397 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:13:04 2024
+[2024/07/02@12:13:04.892+0200] P-2190530    T-2190530 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:13:04.893+0200] P-2190530    T-2190530 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:13:04.895+0200] P-2190530    T-2190530 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:13:16 2024
+[2024/07/02@12:13:16.821+0200] P-2190585    T-2190585 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:13:16.822+0200] P-2190585    T-2190585 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:13:16.823+0200] P-2190585    T-2190585 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:14:20 2024
+[2024/07/02@12:14:20.306+0200] P-2190856    T-2190856 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:14:20.307+0200] P-2190856    T-2190856 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:14:28.269+0200] P-2190856    T-2190856 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:15:02 2024
+[2024/07/02@12:15:02.261+0200] P-2191495    T-2191495 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:15:02.262+0200] P-2191495    T-2191495 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:15:04.352+0200] P-2191495    T-2191495 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:15:12 2024
+[2024/07/02@12:15:12.290+0200] P-2191607    T-2191607 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:15:12.292+0200] P-2191607    T-2191607 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:15:19.912+0200] P-2191607    T-2191607 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul  2 12:15:32 2024
+[2024/07/02@12:15:32.443+0200] P-2191702    T-2191702 I ABL      : (451)   Single-user session begin for cvb@CCE.local on /dev/pts/25. 
+[2024/07/02@12:15:32.444+0200] P-2191702    T-2191702 I ABL      : (7129)  Usr 0 set name to cvb@CCE.local. 
+[2024/07/02@12:39:23.161+0200] P-2191702    T-2191702 I ABL      : (334)   Single-user session end. 

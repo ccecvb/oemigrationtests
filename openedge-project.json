@@ -1,0 +1,27 @@
+{
+  "name": "MyProject", 
+  "version": "1.0",    
+  "oeversion": "12.2", 
+  "graphicalMode": false,
+  "charset": "utf-8",  
+  "extraParameters": "",
+  "sonarlintProperties":{ "sonar.oe.preprocessor.process-architecture": "64" },
+  "buildPath": [
+    { "type": "source", "path": "src" }
+  ],
+  "buildDirectory": "build",
+  "dbConnections": [ 
+    {
+      "name": "sp2k",
+      "connect": "-db sp128 -RO",
+      "schemaFile": "db/sp128.df",
+      "aliases": []
+    }
+  ],
+  "numThreads": 1, 
+  "procedures": [
+  ],
+  "profiles": [
+    
+  ]
+}

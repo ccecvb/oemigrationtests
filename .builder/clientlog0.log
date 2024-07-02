@@ -1,0 +1,5 @@
+[24/07/02@10:18:41.141+0200] P-2149996 T-2149996 1 4GL -- Logging level set to = 1
+[24/07/02@10:18:41.141+0200] P-2149996 T-2149996 1 4GL -- TERM env variable is not set. Assuming an ANSI terminal. (4032)
+[24/07/02@10:18:41.149+0200] P-2149996 T-2149996 1 4GL APPL           Connecting to DB 'sp2k': '-db sp128 -RO'
+[24/07/02@10:18:41.149+0200] P-2149996 T-2149996 1 4GL APPL           Unable to connect to 'sp2k'
+[24/07/02@10:18:41.149+0200] P-2149996 T-2149996 1 4GL APPL           ** Cannot find or open file /home/cvb@CCE.local/projects/OpenEdge/oemigrationtests/sp128.db, errno = 2. (43)

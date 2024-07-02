@@ -1,0 +1,1 @@
+{"hideWindow":false,"propath":["src"],"databases":[{"name":"sp2k","schemaFile":"db/sp128.df","connect":"-db sp128 -RO","aliases":[]}],"threadNumber":0,"hostName":"localhost","portNumber":40479,"procedures":[]}

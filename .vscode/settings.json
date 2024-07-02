@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {        
+        "TERM": "ansi",
+        "MyValue": "is set"
+    }
+}

@@ -1,0 +1,1123 @@
+WARNING: Before-image file of database db/sp128 is not truncated. (1552)
+12.2.14.0.1492 
+A
+
+Cust Num Name
+-------- ------------------------------
+    2023 2 Fun Sports Sales
+    2060 71 Pawn Ctr
+    1990 A & A Athletic & Recreation
+    1231 A & J Sports Inc
+    1303 A A Collegiate Pennant Co
+    1874 A P Sports
+    1892 A To Z Sports
+    1291 Aaa Sporting Goods Inc
+    1439 Abbeville Sporting G
+      37 Abc Mountain Bikes
+    1020 Abc Sports
+    1353 Academy Sports
+    1374 Academy Sports & Outdoors
+    1104 Action Sports
+    1489 Action Sports
+    1842 Action Sports
+    1259 Action Sports Ctr
+    1369 Active Athlete Inc
+    1302 Active Endeavors
+    1331 Adin Supply Co
+    1793 Adolphs Sporting Go
+    1932 Advanced Hunting Equipment Inc
+    1247 Adventure Out Inc
+    1413 Adventure Sport
+    1354 Adventure Sports Inc
+       7 Aerobics valine Ky
+    1826 Aggie Sale Sport Shop
+    1440 Aiken Sporting Goods
+    1526 Ais Sports
+    1527 Akron Sport Shack
+    2041 Alameda Skate & Surf
+    2027 Alamosa Sporting Goods & Pawn
+    2103 Alaska Fisheries
+    2104 Alaska Par T Golf Pro Shop
+    1340 Alaskan Tackle Shop
+    1541 Alfred Sports Ctr
+    1510 All About Sports
+    1498 All American Pro Shop
+    1878 All American Sporting Goods
+    1356 All American Sports
+    1738 All Area Sports
+    1423 All Dakota Sporting Goods Inc
+    1069 All Good Sports
+    1977 All Out Sports
+    1531 All Seasons Sportarama
+    1583 All Sport
+    2052 All Sports
+    1592 All Star Sport Ctr
+    1398 All Star Sporting Goods
+    1161 All Star Sports
+    1063 All Stick Sports
+    2105 All Weather wear
+    1375 Allen Sports Ctr
+    1300 Allied Sporting Goods
+    1818 Allied Sporting Goods
+    1061 Alpine Snow Sports
+    1147 Als Sport n Shop
+    1355 Als Sporting Goods
+    1753 Als Sports
+    1217 Alta Sports
+    1703 Altenthal Sporting Goods
+    2042 Am-cam Sports
+    1227 American Sports
+    1535 Amityville Harbor Sports Ctr
+    1342 Anchor Angler
+    1492 Anderson's Sporting Goods Inc
+    1783 Angler's Sport Ctr
+    1352 Annandale Sports Inc
+    1279 Anoka Sport Shack
+      18 Antin Metsastysase
+    2028 Any Mountain Ltd
+    1995 Anzellottis Sportin
+    2106 Apocalypse Design Inc
+    1114 Apple River Sports
+    1015 Aqua Sport
+    1721 Arcadia Sporting Goods
+    2095 Arctic Gun Trader
+    2099 Arctic Gunworks
+    1105 Arena Sporting Goods
+    1848 Arena Sporting Goods Inc
+    1333 Arizona Sports Club
+    1941 Arkenstone Paint Ball Games
+    1368 Arlington Sporting Goods
+    1067 Armadale Fitness
+    1370 Armadillo Sport
+    1677 Arnies Team Sports
+    1385 Around The Plate Inc
+    1562 Artesia Sports
+    1824 Ashland Sporting Goods
+    1254 Ask Us Sports
+    1256 Atco Sports
+    1957 Athlete's Choice Inc
+    1789 Athlete's Corner
+    1319 Athlete's Foot
+    1323 Athlete's Foot
+    1961 Athlete's Foot
+    1025 Athlete's Track
+    1849 Athletic Annex Running Centre
+    1228 Athletic Attic
+    1391 Athletic Attic
+    1764 Athletic Attic
+    1956 Athletic Attic
+    1488 Athletic Department
+    1411 Athletic Edge
+    1313 Athletic Exchange
+    1950 Athletic Footwear Outlet
+    1392 Athletic Shop
+    1386 Athletic Supply
+    1219 Athletic X-press
+    1125 Athletics North
+    1414 Athletics North
+    1631 Athletics Plus
+    2096 Atkilak's Hunting & Fishing
+      73 Auffi Bergausrustung
+    1403 Austad's
+    2085 B & B Sporting Goods
+    1298 B & C Sporting Goods
+    1134 B & G Pro Shop & Sportsman
+    2006 B & M Gun Shop
+    1811 B-in-line
+    1797 Back In The Game
+    1908 Back Nine
+    1971 Baker Sporting
+    1077 Balls 'n' Sticks
+    1944 Bandit Weight Equipment
+    2075 Barling Bait & Tackle
+    1509 Barn Out Back
+    1722 Barry's Up North
+    1106 Base Camp Inc
+    1912 Bass Alley
+    1625 Bassett Sporting Goods
+      47 Batter Up Baseball
+    1295 Batter's Box
+    1577 Batter's Edge
+    1775 Bay Pro Shop
+    1118 Bcw Sports
+    1275 Beach's Sporting Goods
+    2053 Bear Arms
+    1976 Bear Sporting Goods
+    1719 Beaver Bay Sports Shop
+    1617 Bedlan's Sporting Goods Inc
+    1798 Bell's Sporting Goods
+    1607 Ben's Ski & Sports Ctr
+    1483 Bend Bandits Merchandise
+    1232 Bennett Sports
+    1828 Bennett Sports
+    1889 Bent Rod
+    1587 Bergenfield Sport Ctr
+    1334 Best Sports Inc
+    2005 Between The Lines Boating Hrdw
+    1536 Betz's Sport Shop
+    1933 Bicycle City
+    1189 Big 5 Sporting Goods
+    1215 Big 5 Sporting Goods
+    1236 Big 5 Sporting Goods
+    1329 Big 5 Sporting Goods
+    1553 Big 5 Sporting Goods
+    1578 Big 5 Sporting Goods
+    2045 Big 5 Sporting Goods
+    1678 Big Bear Sports Ctr
+    1212 Big Pine Sports
+    1186 Big River Sports
+    1142 Big Sandy Sports Shop
+    1644 Big Sky Athlete Inc
+    1872 Bike & Hike
+    1311 Bike Shop
+    1935 Bikeabout Bicycles
+      13 Biljardi ja tennis
+    1704 Bill Williams Sporting Goods
+    1810 Bill's Guns & Sporting Goods
+    1708 Bill's Sport Shop
+    1239 Bill's Sporting Goods
+    1737 Bill's Sportman's Svc
+    1634 Bill's Sports
+      72 Birdy's Badminton
+    1511 Bizzari Brothers Sportswear
+      79 Blue Line Hockey
+    1954 Bluegrass Sales
+    1720 Bluewater Bait & Sports
+    1857 Blythe's Sport Shop Inc
+    1195 Bo Maxx Crafts & Sports Cards
+    1537 Bob Nolan's Sporting Goods Co
+    2101 Bob's Guns & Sporting Goods
+    1301 Bob's Pro Shop
+    1683 Bob's Sport Shop
+    1266 Bob's Sporting Goods
+    1244 Bob's Sports
+    1769 Bobby Mc Avan Pro Shop
+    1184 Bodin's On The Lake
+    1771 Body Prospects
+    1713 Bogard Sporting Goods
+    2097 Bonnie's Sports & Trophy Supl
+    2094 Bow Shop
+    1274 Bowen Sporting Goods
+    1579 Brace-up
+    1431 Brad's Outdoor Emporium
+    1858 Brendamour's Sporting Goods
+    1360 Brian Head Sports Inc
+    1898 Briar & Bow
+    1168 Bristol Sporting Goods Inc
+    1718 Broken In Sports
+    1473 Brookings Sports Unlimited
+    1376 Buck's Sporting Goods
+    1499 Buck's Sporting Goods
+    2026 Bud's Sporting Goods & Fntn
+      19 Buffalo Shuffleboard
+      29 Bug in a Rug-by
+      26 Bulls Eye Sports
+    1169 Bullwinkle's
+      27 Bumm Bumm Tennis
+    1748 Burke's Sport Haven
+    1175 Burrows Sport Shop
+    1153 Bush-wells Sporting Goods Co
+      51 Butternut Squash Inc
+    1947 C & G Sporting Goods
+    1502 C & J Sporting Goods
+    2070 C & J Sports
+    1734 C & S Sports Ctr
+    1377 C D Ski & Sports
+    1873 C D Tripleplay Sportscenter
+    1603 C2 Board Shop
+    2054 Cactus Southwest Golf
+    1452 Cadden's Sportstown
+    1917 Caddie-shack Hawaii
+    1283 Cahill's Sporting Goods
+    1554 Call It Class
+    1696 Campassi Sporting Goods
+    2048 Campus Athletic
+    1928 Campus Sports
+    1412 Capital Sports
+    1446 Capitol Game Place
+    1143 Capon Sport Shop
+    1918 Capworld
+    1919 Cardinal Sports
+    1213 Carlisle's Sport Shop
+    1081 Carmel's Games
+    1641 Carrington All Sports
+    2089 Carter's Archery & Awards
+    1203 Casual Adventure
+    1361 Cedar City Sports Court
+    1214 Cedar Mountain Sports
+    1466 Ceglar Sports
+    1807 Cenla Sports Inc
+    1257 Center Harbor Sport Shop
+    1829 Center Sporting Goods
+    1669 Chalet Sports
+    1076 Chambre du Sport
+    1407 Champ's Sporting Goods
+    1905 Champion Sports
+    1107 Champs Sports
+    1267 Champs Sports
+    1349 Champs Sports
+    1435 Champs Sports
+    1546 Champs Sports
+    1572 Champs Sports
+    1597 Champs Sports
+    1679 Champs Sports
+    1808 Champs Sports
+    1850 Champs Sports
+    1871 Champs Sports
+    1951 Champs Sports
+    2003 Champs Sports
+    2049 Champs Sports
+    2050 Champs Sports
+    1799 Chaney's Not Just Soccer
+    1108 Changes
+    1487 Charlie's Outdoor Specialties
+    1573 Charlie's Sporting Goods
+    1393 Chattanooga Sports
+    1663 Cheese's All Pro Sports
+      50 Chip's Poker
+    2091 City Pawn Shop
+    1991 Cleveland Park Sports
+    1804 Club Soccer
+    1397 Cmt Sporting Goods Co
+    1847 Coach's Connection
+    1416 Coach's Too Sporting Goods
+    1500 Coaches Corner
+    1486 Coast Fitness
+    1620 Coast To Coast Store
+    1689 Columbia Sporting Goods
+    1422 Columbia Sports
+    1324 Connecticut Sporting Goods Co
+    1480 Copeland Sports
+    2035 Copeland Sports
+    2021 Cottonwood Meadows Tackle
+    1438 Courts Sporting Goods
+    1601 Covered Bridge Sport Shop
+    1151 Cowboy Sports
+    1264 Coyote's Den
+    1665 Coyotes Den Sports Shop
+    1725 Crandall's Sports
+    1900 Craton's Sporting Goods
+    1690 Cricket Box Sports Ctr
+    1287 Crofton Classic Pro Shop Ltd
+    1170 Curotz Sports Ctr
+    1501 Curtis Sports Inc
+    1490 Cushing Sporting Goods
+    1358 Custom Sports Lc
+    1992 Cycles & Sports Inc
+    1121 D & A Sporting Goods
+    1962 D & P Powder Keg
+    1593 D & S Sports
+    1622 Dad's Calamus East
+    1226 Dakota Sports Inc
+    1404 Dakota Sports Inc
+    1415 Dakotamart Outdoor Sports
+    1182 Dam Sport Shop
+    1062 Damon's Toys
+    1654 Dan's Sporting Goods
+    1760 Dandy Sports & Toys
+    1701 Dane's Sports & Marine Ctr
+      74 Dark Alley Bowling
+    2009 Darter Baits
+    1405 Dauby's Sport Shop
+    1626 Dawg's Hut
+    1079 Dawn of Sport
+    1288 Day Street Sports Shop
+    1154 Dean's Sporting Goods
+    1960 Deer Stand Inc
+    1357 Delta Sports Ctr
+    1185 Denis Sport Shop
+    1476 Deschutes Products
+    2051 Desert Canyon Sports
+    2056 Desert River Sports
+    1547 Desert Rock Sports
+    1260 Dewey's Sporting Goods
+    1120 Diamond Hitch Sports
+    1111 Diamond Sports Shop
+    1815 Dickie's Sportsman's Ctr
+    1444 Dicks Sport & Hobby Shop
+    1436 Dillard's Sport Ctr
+    1630 Discount Sports
+    1884 Dive Magic
+    1929 Dive Shop
+    2065 Dive Shop
+    1447 Dmk Sports Pro Shop
+    1896 Don's Bait & Tackle
+    1557 Donnelley Sports
+    1885 Donnelley Sports
+    1835 Double Aa Sporting Goods
+    1144 Down Your Alley
+    1868 Dr Jack's Sport & Quick Stops
+    1959 Duck Creek Gun & Surplus Ctr
+    1604 Ducret's Sporting Goods
+    1396 Duggans Sporting Goods
+    1519 Duggle Bag Inc
+    1261 Dugout
+    1190 Duke's Sport Shop
+    1205 Duke's Sport Shop
+    1458 Dunham's Discount Sports
+    1843 Dunham's Sporting Goods
+    1740 Dunhams Discount Sports
+    1233 Dwight E Kuntz Sporting Goods
+    1119 E J Arena Sports
+    1861 Earl's Sports
+    1777 East Of Maui
+    1394 East Ridge Sports
+    2047 Edington's Fine Golfwear
+    1581 Efinger Sporting Goods Co
+    1305 Elevation Sports
+    1726 Elmer's Sportsmen's Ctr
+    1450 Elmwood Sports Ctr Inc
+    1844 Em-roe Sporting Goods Co
+    2000 Epic Sport Works
+    1943 Equipment Locker Sport & Cycle
+    1193 Ernie's Border Sports
+    1474 Escape Hatch Sports & Cycle
+      20 Espoon Pallokeskus
+    1277 Etcetera
+    1312 Euro-equipment Fitness
+    1605 Everett Sports Ctr
+    1602 Exeter Sports Shop
+    1860 Extra Innings Sporting Goods
+    1426 Extra Mile
+    1854 Extreme Performance Outfitters
+      83 Fallen Arch Running
+    1934 Famous Footwear
+    1855 Fan Fair Of Evansville
+       6 Fanatical Athletes
+    1387 Fast Break
+      30 Fast Flipper Pinball
+    1812 Field & Stream Outfitters Inc
+    1140 Finish Line
+    1235 Finish Line
+    1399 Finish Line
+    1528 Finish Line
+    1831 Finish Line
+    1926 First Class Usa
+      66 First Down Football
+    1339 Fishin Hole
+    1813 Fitness Systems
+    1335 Fitness Tech
+    1074 Fitz's Flying Freaks
+    1758 Five K Sports
+    1985 Fleet Feet
+    1866 Fly-way Sporting Goods
+      58 Flying Fat Aerobics
+    1271 Fort
+    1206 Forth'n Goal Sports
+    1230 Four Seasons Sporting Goods
+    1540 Four Seasons Sports Ctr
+    1672 Fran Johnson's Sports Shop
+    1594 Franconia Sport Shop
+    1467 Franklin Sporting Goods
+    1770 Fred's Batter's Box
+    1920 Fresh Wave
+    2007 G & K Sports
+    1484 G I Joe's Inc
+    1986 G T Players
+    1902 G T Sports Unlimited
+    1200 Galanes Sport Shop
+       8 Game Set Match
+    1723 Games People Play
+    1455 Gamma Sports
+    1574 Gardenswartz Team Sales
+    1155 Gart Sports
+    1270 Gart Sports
+    1365 Garts Sports
+    1341 Gary King's Sporting Goods
+    1469 Gebhardt's
+    1765 Gee & Bee Sporting Goods Inc
+    1293 Gerald's Sporting Goods-baits
+    1643 Gerrells Sports Ctr
+    1635 Gerrells Sports Ctr Inc
+    1513 Gill's Surf & Sport
+       4 Go Fishing Ltd
+    1792 Goal Inc
+    1897 Goalsetter Systems Inc
+    2036 Golden Bear Skate Shop
+    2066 Golf Augusta Pro Shop
+      57 Golf Club Holland
+    1927 Golf Line Hawaii Inc
+    1998 Golf Usa
+    1210 Good Sports
+    1628 Goodroad Sports
+    1836 Goodwin Sporting Goods
+    1116 Gorilla & Sons
+    1655 Goshen Supply Co
+    1745 Grand River Sports
+    1772 Grand Slam Usa
+    1417 Granite Sports
+    1117 Great Adventure
+    1987 Great Pacific Patagonia
+    1901 Greenbelt Outfitters
+    2063 Greenbrier Feed
+    1698 Gulf Sports
+    2067 Gun Rack
+    2010 Gunnison Sporting Goods
+    1862 Gym Bag
+      64 Hamahakkimies Ky
+      52 Hangon Potkulauta Ky
+      75 Hard Knocks Skating
+    1308 Harold Nichols Wrestling Eqpt
+    1419 Harve's Sport Shop
+    1886 Hatch
+    1659 Hatteras Wind & Surf
+    1899 Hauff Sporting Goods
+    1913 Hawaii Outdoor World Paradise
+    1642 He-mart
+    1914 Headside
+      62 Hearts Darts
+    1921 Heavy Metal Barbell Co
+    1243 Heffner's Sports Specialties
+      40 Heikin Kuntosali
+    1421 Hendrix's Sporting Goods
+    1989 Herb's Sport Shop Inc
+    1451 Herman's World-sporting Goods
+    1538 Herman's World-sporting Goods
+    1778 Herman's World-sporting Goods
+    1988 Herman's World-sporting Goods
+    1996 Herman's World-sporting Goods
+    1700 Hi Five Sports Inc
+    1749 Hi Tech Pro Shop
+    1388 Hibbett Sports
+    1441 Hibbett Sports
+    1692 Hibbett Sports
+    1945 Hibbett Sports
+    1149 Hidden Valley Sports
+    1371 High Country Sports
+    1272 High Five Sports Inc
+      17 High Tide Sailing
+    1252 Highpoint Pro Shop
+    1378 Hill's Sport Shop
+    1465 Hill's Sports Ctr & Store
+    1930 Hockey Shop
+    1879 Hockey Unlimited Inc
+    1876 Hoffies Imprinted Sportswear
+    1548 Holiday Hockey & Sport
+      59 Holvin juoksukeskus
+    1814 Home Skate Shop
+    1969 Home Town Sports
+    1307 Hometeam Sporting Goods
+    1064 Hook, Line & Sinker
+      38 Hoopelin Pesapallo
+      15 Hoopla Basketball
+       3 Hoops
+    2024 Hot Feet
+      60 Hou Hoog die Bal
+    1589 Howard's Sporting Goods
+    1425 Howards Sports
+    1220 Hub City Sports
+    1982 Hudson Trail Outfitters Ltd
+    1180 In Season Sports
+    1282 Indian Hill Trading Post
+    1586 Inside Out
+    1449 Instant Replay
+    1326 Instant Replay Sports
+    1906 Intensitee
+    1197 Intersport Inc
+    1221 Into The Outdoors Inc
+    1983 Irving's Sport Shops
+    1915 Island Snowboards Hawaii
+    1191 Island Sports
+    1448 Island Sports
+    1372 It's Fantastic
+    1768 J & B Sports
+    1931 J & J Schwin
+    1841 J & J Sporting
+    2044 J & L Sporting Goods
+    1790 J & S Sports Inc
+    1773 J G Sports
+    1459 J K Sports
+    2068 J-sport
+      31 Jaakon Jumppavaline
+      78 Jack's Jacksssss
+    1784 Jacob's Athletic Shoe Outlet
+    1916 Jam Sports
+    1846 Jan's Sport Shack
+    2008 Jay's Sport & Trophy
+      24 Jazz Futis Kauppa
+    1126 Jerry's Sports Svc
+    1580 Jfd Sports
+    1433 Jim Hanna Sports
+    1299 Jimmy's Athletic Apparel
+    1909 Jin Golf Corp
+    1785 Jock City Sporting Goods
+    1549 Jock Shop
+    1495 Jocks Nitch Sporting Goods
+    1258 Joe Jone's Ski Shop & Sports
+    2098 John's Custom Archery Pro Shop
+    2088 Johnson Brothers Fishing Guide
+    1695 Johnson's Sporting Goods
+    1754 Johnson's Sporting Goods
+      49 Jortsin Kesport
+    1735 Jrry's Sport Shop
+    1273 Judge-little Co
+    2078 Just For Kicks Soccer Ctr
+      10 Just Joggers Limited
+    1198 Just Sports Inc
+    1794 K & G Sportsworld
+    1731 K & K Sports
+    1616 K H's Sports Shop
+    1910 Kalihi Bowling Ball Clinic
+    1470 Karess & Reich
+      11 Keilailu ja Biljardi
+      76 Kempeleen Intersport
+    1819 Kentucky Sporting Goods
+    1820 Kentucky Sportsman Inc
+      22 Kesport Katiska
+    1454 Kettering Sporting Goods
+    1250 Kevin's Ski & Sports Rentals
+    1453 Kickin' Sports
+      32 Kiiskin Jaavarustus
+    1400 King Of Clubs
+    1545 Kinne's Sports Shop
+    1660 Kitty Hawk Sports Inc
+    1614 Klaus' Ski & Sport
+    1539 Klein's All Sports
+    2055 Kliban's Variety Store
+    1136 Koenig Sporting Goods
+    1173 Koenig Sporting Goods
+    1521 Koenig Sporting Goods
+    1418 Kohn's Sports Shop
+    1522 Kranker King Inc
+    1859 Kratz Sporting Goods
+    1714 L & M Athletic Goods
+    2038 L A Gym Equipment
+    1065 L'ecole du Tennis
+      25 La Boule Lyonnaise
+    1109 La Crosse Northwest
+      36 La voile en folie
+    1867 Lacoma Golf Club
+      65 Lagt Kort Ligger
+    1150 Lain's Sport Ctr & Motel
+    1786 Lancer Sports
+    1493 Larry Black Sporting Goods
+    1338 Las Vegas Discount Golf/tennis
+    1924 Las Vegas Discount Golf/tennis
+    1550 Las Vegas Sports
+    1542 Las Vegas Sports Ctr
+    1774 Laurel Sport Shop
+    1245 Laux Sporting Goods Inc
+    2059 Lavender Enterprises
+    1204 Le Blanc Sports Inc
+      77 Le Hollandais volant
+    1159 Lee Snow's Sporting Goods
+    1364 Lee's
+    1664 Legends Sporting Goods
+    1800 Legends Sporting Goods
+    2018 Leisure Time Sports & Video
+    1736 Leitz Sports Ctr
+    1316 Lemi Custom Club
+    1127 Len Schmidt Sporting Goods
+    1709 Liddle Sport Shop Inc
+    1984 Lids Ltd Partnership
+    1757 Life Sports
+    1306 Life Style Sports
+       1 Lift Tours
+    2102 Lighthouse Grocery & Liquor
+    1485 Lithia Sports Ltd
+    1506 Littlefield's Sporting Goods
+    1137 Littlejohn Sporting Goods
+    1201 Loading Bench Inc
+    1569 Lobo Store At The Pit
+    1309 Local Motion
+    1130 Locker Room
+    1373 Locker Room
+    1821 Locker Room Sporting Goods
+    1181 Locker Room Sports
+    1747 Lockeroom Sports
+    1888 Lolo Sporting Goods
+    1148 Lone Pine Sports
+    1686 Lonnie's Sporting Goods
+    1618 Lou's Sporting Goods
+    1823 Louisville Sports & Rec
+    1817 Lowe's Sporting Goods
+    1496 Lucky Starr Sport Shop
+      28 Luistin ja Pyora Oy
+      63 Luopioisten Biljardi
+    1946 Lutz Bait & Tackle
+    1543 M & G Sporting Goods Inc
+    1165 M & K Sporting Goods
+    2083 M & R Sporting Goods
+    1523 M C Sports
+    1741 M C Sports
+    1864 M C Sports
+    2057 Main Event
+    2039 Main Event-la Coliseum
+    1759 Maine Mt Sports
+    1207 Manchester Sport Shop
+    1652 Marcum's
+    1611 Marty's Sport It
+    1776 Marty's Sporting Goods
+       5 Match Point Tennis
+    1801 Matt's Wild World Of Sports
+    1911 Maui Sporting Goods Spearfish
+    1427 Maxx'd Out
+    2076 Mc Corvey's Pro Shop
+    2071 Mcg Enterprises Inc
+    1922 Merle Harmon's Fan Fair
+    1925 Metro Sports Fitness Depot
+    1322 Metropolis Bicycles
+    1347 Metropolitan Sports
+    1803 Mickey's Sporting Goods
+    1246 Mike De Rossi Sports Inc
+    1853 Mike's Sporting Goods Inc
+    1005 Mike's Sports
+    1791 Miner's Sports World
+    1278 Minnesota Twins Pro Shop
+    1263 Mon Dak Sports Ctr & Pawn
+    1967 Moore Sports & Engraving
+    2090 Moore's Sporting Goods
+    1328 Mountain Angler
+    1156 Mountain Sports
+    1533 Mountain Sports
+    1561 Mountain Sports
+    1166 Mountain Sports Ltd
+    1727 Mr Sports
+    1289 Mvp Sports
+    1613 Mvp Sports
+    1978 Nash's Sports & Casuals
+    1321 Nash's Sports Ctr
+    1979 National Diving Ctr
+    1787 Nauset Sports Inc
+    1610 Nebraska Sporting Goods
+    1805 New Orleans Sports
+    2029 Nomad Cyclery
+    1481 North Shore Surf & Sport
+    1442 Northern Calls Inc
+    2019 Northside Soccer & Sports
+    1556 Northwest Sports
+    1325 Oakwood Sports & Fitness Ctr
+      81 Off The Wall
+      53 Offside Hockey
+    1904 Okoboji Boats
+    2072 Olympia Sporting Goods
+    1606 Olympia Sports Ctr
+    1781 Olympia Sports Ctr
+    1102 Olympic Sports
+      46 Olympique marseilles
+      41 On Target Rifles
+    1445 On Target Sports
+    2030 On The Run
+    1563 One Mountain Sports
+    1955 Orlando Magic Fan Attic
+    1952 Orlando Team Sports
+    1251 Oshman's Sporting Goods
+    1666 Outback Sports
+    1575 Outdoor Adventures
+    1894 Outdoor Outlet
+    1834 Outdoor Sporting Goods
+    1456 Outdoor Store
+    1637 Outdoorsman
+    2086 Outdoorsman Inc
+    1138 Outdoorsmen Sporting Goods
+    1512 Outpost
+    1949 Over The Edge Skates
+    1779 P J's Sport-n-surf Shop
+    1852 P J's Sports Hut
+    1318 Paceline Cycle Ctr
+    1211 Pacers
+    2031 Pacific Bicycle
+    2025 Pacific Underground
+    2014 Pacific Wave
+    1389 Paddle Sports Inc
+    2032 Paint Ball Plus
+      14 Paris St Germain
+    2037 Payless Drug Store
+      21 Pedal Power Cycles
+    1103 Pedersen's Ski & Sports
+    2013 Pedersen's Ski & Sports
+      35 Penan Sporttiklubi
+    1160 Peoples Sporting Goods
+    1746 Pere Marquette Sport Ctr
+    1286 Personal Best Athletics
+    1337 Pete's Soccer Shop
+    1123 Petenwell Sport Shop
+    1294 Phillip Gall's
+    1940 Piedmont Outdoors
+    1907 Pier
+       9 Pihtiputaan Pyora
+    1475 Pine Point Ski & Sport
+    1612 Place In The Woods Sporting
+    1570 Play It Again Sports
+    1732 Play It Again Sports
+    1750 Play It Again Sports
+    1865 Play It Again Sports
+    2087 Play It Again Sports
+    1045 Play Sports
+    1923 Player's Choice Inc
+    1482 Players Racquet Shop
+    2064 Plyler's Harware
+      71 Pocket Billiards Co.
+    1406 Pokey's & Sports
+    1225 Polar Outlet
+    1756 Pond View Sports
+    2058 Popular Outdoor Outfitters
+    1332 Popular Surplus Stores
+    1534 Port Of Sports Ski Shops
+    1167 Powder Horn Sporting
+    1262 Prairie Sports Imporium
+    1751 Prep Sports Ctr
+    1710 Priddy Athletic
+    1172 Prime Sports
+    1795 Prime Time Sports
+    2015 Pro Golf Discount
+    1242 Pro Image Inc
+    1304 Pro Image Inc
+    1877 Pro Image Inc
+    2004 Pro Image Inc
+    2079 Pro Image Inc
+    1762 Pro Line Sports
+    1796 Pro Sports
+    1315 Pro Sports Inc
+    1766 Pro Sports South
+    1265 Pro-am Sports
+    1524 Pronio Sports
+    1110 Prostock Athletic Supply
+    1280 Provisions Sport Shop
+      48 Purjehdustarvike Oy
+    1638 Push Pedal Pull
+      34 Quick Toss Lacrosse
+    2080 Quick Track
+    1428 R & M Sporting Goods
+    1767 R & R Sports Ctr
+    1973 R & R Sports Ctr
+    1297 R T Sporting Goods Inc
+    1882 R U Outside
+    1317 Racing's Total Image
+    1980 Racquet & Jog
+    1688 Rainbow Sporting Goods
+    1174 Rakes Sporting Goods
+    1869 Ramm Sports
+    1706 Rawlings Sporting Goods
+    2081 Ready's Home Recreation
+    1705 Reagan's Sports Ctr
+    1903 Rec Room
+    2062 Red Barn Sports Ctr
+    1330 Redondo Sports
+    1832 Reffner's Sporting Goods
+    1942 Rei-recreation Equipment Inc
+    1936 Rei-recreational Equipment Inc
+    2016 Rei-recreational Equipment Inc
+    1196 Replay Sports
+    1350 Replay Sports
+    1743 Reynolds & Sons Sporting Goods
+    1585 Rich's World Of Sports
+    2017 Ride The Wind
+    1434 Rinehart's Sporting Goods
+    1646 Riverfront Sports Inc
+    1584 Roberts Sports Corner
+    1222 Rock Creek Down Under
+    2077 Rocky's Sporting Goods
+    1164 Rogers Sport Ctr
+    1981 Rom-mid Atlantic
+    1362 Ron's Sporting Goods
+    1240 Ron's Sports World
+    1514 Ronicks Sports & Apparel
+    1327 Royal Gorge Anglers
+    1066 Runners Anonymous
+    1285 Rusty Russell Sports
+    1296 Rusty's Outdoor Sports
+    1997 Ryan's Ski & Sport
+    1839 Ryder's Sporting Goods
+    2033 S & S Gear
+    1650 Sage Sport
+    1268 Sagesport
+    1742 Saline Sports Shack
+    2001 Sartorius Sports Ltd
+    1963 Save On Sneaks
+      45 Sc Ren Je Rot
+    1408 Scheels All Sports
+    1639 Scheels All Sports
+    1647 Scheels All Sports
+    1640 Scheels Sport Shops
+    1680 Scheels Sport Shops
+    1128 Scheels Sports
+    1621 Scheffler Sporting Goods
+    1744 Schupbach's Sporting Goods
+    1133 Score Sportscenter
+    1571 Scoreboard
+    1366 Scoreboard Sports
+    2022 Scuba Joe
+    1999 Seaview Scuba Inc
+    1359 Second Mile
+    1157 Second Season Sports
+    1477 Second Season Sports
+      82 Second Skin Scuba
+    1670 Second Wind Sports
+    1508 Sexton's Sport Ctr
+      55 Shark Snack Snorkel
+    1728 Sherm's Sporting Goods
+    1656 Sherman's Sports
+    1994 Shihan Martial Arts & Sporting
+      44 Ship Shape Yachting
+    1968 Shooters Supply
+    1146 Shorty's Sports Shop
+    2034 Sierra Angler's Fly Shop
+    1457 Silva's Sports Soccer Spec
+    1875 Simerly's
+    1648 Sioux Sporting Goods Co
+    2093 Skagway Sports Emporium
+    1937 Skate 2000
+    1437 Skater's Edge Pro Shop
+    1351 Skater's Paradise
+    1964 Skaters Edge Hockey Supply
+    1591 Skylands Park
+    1966 Slugger's Den
+    1691 Smith Brothers Sporting Goods
+    1234 Soc-hoc Sports Shop
+    1938 Soccer Alley
+    1755 Soccer Corner
+    1939 Soccer Kick
+    1953 Soccer Star
+    1972 Soccer Tec
+    1030 Soccer Universe
+    1424 Sodak Bait & Sport Shop
+    1462 Sol's Store Of Ambridge
+    1780 Somerset Sporting Goods
+    1809 Songy's Sporting Goods Inc
+    1122 Sonsalla's Sport Hdqrs
+    1724 South Central Athlete
+    1290 South Shore Sport About
+    2082 Southern Outdoor Sports
+    1292 Southern Sporting Goods
+    2046 Southwest Dart & Billiard
+    1564 Southwest Sporting Goods
+    2074 Southwest Sporting Goods Co
+    1139 Spartan Team Warehouse
+    1682 Spas & Sports Unlimited
+    1345 Specialty Sports & Sports Med
+    1320 Spedo Authenic Fitness
+      84 Spike's Volleyball
+    1891 Spirit Express
+    1717 Spirit Shoppe
+    1163 Spoke & Edge Sports
+      54 Spokes Cycles
+    1070 Sport Emporium
+    1343 Sport Fair Inc
+    1673 Sport Karate Supply
+    1080 Sport Mondo
+    1401 Sport Seasons
+    1171 Sport Shack
+    1833 Sport Shack
+    1623 Sport Shop
+    1694 Sport Shop
+    1491 Sport Shot
+    1238 Sport Spot
+    1503 Sport Spot
+    1276 Sport Stop
+    1763 Sport World
+    1588 Sport's Page
+    1827 Sport's Page
+    1530 Sport's Shack
+    1202 Sport-about
+    1608 Sport-about Charlie
+    1699 Sport-about Inc
+    1551 Sportco Sporting Goods Inc
+    1145 Sportin' Life Inc
+    1525 Sporting Experience
+    1555 Sporting Rage
+    1822 Sporting Tradition
+    1237 Sportmart
+    1515 Sports & Sports
+    1565 Sports 'n More
+    1684 Sports Additions
+    1970 Sports Alley
+    1460 Sports Arena
+    1668 Sports Attic
+    1112 Sports Authority
+    1248 Sports Authority
+    1707 Sports Authority
+    1715 Sports Authority
+    1806 Sports Avenue
+    1697 Sports Centre
+    1269 Sports Connection
+    1281 Sports Connection
+    1432 Sports Connection
+    1520 Sports Connection
+    1632 Sports Den
+    1802 Sports Etc
+    1379 Sports Extreme
+    1974 Sports Factory
+    1596 Sports Fanatic
+    1651 Sports Fanatic
+    1224 Sports Fantasy
+    1314 Sports Fantasy
+    1390 Sports Fantasy
+    1218 Sports Fever
+    1463 Sports Fever
+    1566 Sports Galore
+    1558 Sports Hound
+    2084 Sports Huddle
+    1310 Sports Line
+    1464 Sports Locker
+    1840 Sports Locker
+    1152 Sports Lure
+    1249 Sports Magic
+    1733 Sports Magic
+    1567 Sports Mania
+    1739 Sports Necessities
+    1830 Sports Of All Sorts
+    1711 Sports Plus
+    1816 Sports Plus
+    1856 Sports Plus
+    1504 Sports Plus Inc
+    1788 Sports Plus Inc
+    1716 Sports Replay
+    1993 Sports Resources
+    1671 Sports Shack
+    1948 Sports Shak
+    1712 Sports Specialist
+    1685 Sports Specialty
+    1383 Sports Spectrum
+    1131 Sports Stuff
+    1384 Sports Stuff
+    1598 Sports Stuff Inc
+    1348 Sports Unlimited
+    1409 Sports Unlimited
+    1035 Sports Usa
+    1183 Sports Wave
+    1893 Sports West Outlet
+    1568 Sports Zone
+    1975 Sports Zone
+    1782 Sports Zone Inc
+    1113 Sportscenter Nw
+    1761 Sportshaus
+    1532 Sportsland Bk
+    1505 Sportsman
+    1825 Sportsman Center
+    1430 Sportsman Shop
+    1381 Sportsman's Bailiwick
+    1837 Sportsman's Supply
+    1363 Sportsmans
+    1629 Sportsmans Supply Depot
+    1253 Sportsmen's Center
+    1590 Sportsmen's Paradise Inc
+    1178 Sportstuff
+    1657 Sportstuff
+    2069 Sportstuff
+    1229 Sportsworld
+    1559 Sportsworld
+    1661 Sportwerks
+    1560 Sportz Outdoor
+    2040 Sprague's Sports & Rv Inc
+      61 Squash Mestarihalli
+    1194 St John's Sporting Goods
+    1410 Stadium Sports
+      42 Stall-turn Flying
+    1633 Stan Kostka Sporting Goods
+    1863 Stan's Sports Arena
+    1395 Stateline Sporting Goods
+      67 Stay Afloat Swimming
+    2011 Steep & Steep Snowboards Inc
+    1890 Sticks & Stone Mountaineering
+      80 Stickywicket Cricket
+    1582 Stokes Forest Sports Shop
+    1478 Stone's Ski & Sports
+    1479 Stowell's Ski & Sport
+      43 Sub Par Golf
+    1132 Sugar River Sports
+    1752 Sugarloaf Ski Shop
+      69 Sukellusvarustus
+    1693 Sullivan's Sports World
+    1516 Sun Valley Sports Inc
+    1162 Sunlight Sports
+    1674 Sunshine Sports
+      56 Super Golf Center
+    1507 Super Sports
+    1223 Superior Sporting Goods
+    1471 Supply Depot
+    1040 Surf and Sport World
+      12 Surf Lautaveikkoset
+    2012 Surf Lodge
+    2061 Swap Shop
+    1255 Sweats N Sports
+    1845 Sweats Sporting Goods
+    1179 T & T Sports
+    1124 T J's Sport & Ski
+    1838 T R's Sports
+    1336 Tackle Box
+    1497 Tallent's Sport Shop
+    1958 Taylored Tackle & Archery Shop
+    1619 Team Spirit
+    1636 Team Spirit
+    1208 Team Spirit Inc
+      33 Tennis Agentti
+    1068 Tennis, Anyone?
+    1895 Terry's Sports Shop & Video
+    1071 The Hollywood Bowl
+    1199 Thomas Sporting Goods
+    2020 Three Rivers Resort & Outfit
+      16 Thundering Surf Inc.
+    1529 Thurston Sports Inc
+    1177 Thygesen Sports
+    1730 Tiger City Sports
+    1420 Tiger Sports Shop
+    1075 Tim's Sporting Goods
+    1158 Timberline Sporting Goods
+    1965 Time Out Sports
+    1675 Time Out Sports Inc
+    2073 Tink's Sport Stop
+    1443 Titan Sporting Goods Inc
+    1115 Tnt Sports
+    1870 Tom's Sport Enterprises Inc
+    1176 Tomasi's Sport Ctr
+    1595 Tonto Sports
+    2002 Total Fitness Systems Inc
+    1472 Tri Mountain Sports
+    1429 Tri-county Sports
+    1380 Triple Diamond Sports
+    1599 True Sport Inc
+    1073 Tutto Sport
+    1615 Tweet's Sport Shop
+    1346 Twin Creeks Sports
+    1887 Twin Peaks Sports
+    1609 Twin River Sports Shop
+      70 U-jump Parachuting
+      68 Ufo Frisbee
+    1627 Uhl's Sporting Goods
+      39 Uintivaline Rapyla
+    1367 Under Par Golf
+    1344 Underground Sports
+    1676 Universal Athletic Svc
+    1461 Unkel Joe's Woodshed
+    1645 Uptown Athletics
+       2 Urpon Frisbee
+    1880 Vano's Club House
+    1681 Varsity Sports
+    1851 Varsity Sports Inc
+    1544 Vic De Mayo's Inc
+    1883 Victor's Emporium
+    1192 Village Sport Shop
+    1216 Village Sports Den
+    1517 Vip Sports
+    1468 Vit's Sporting Goods
+    1702 W W's Sports World
+    1600 Waite Sports Specialists
+    1552 Warren Sports
+    1135 Waterfront Sporting Goods
+    1649 We're Good Sports
+    1494 Wesley's Sporting Goods
+    1881 West Addison Sportsmen Supply
+    2100 Western Auto
+    1729 Westwood Sports
+    1078 Wheelchair Athletes
+    1209 Wheeler Sports
+    1072 Wheels-a-mania
+    1188 Wilderness Sports
+    1662 Williams Sportsman Ctr
+    1624 Wilson Sports
+    1653 Windsurfing Hatteras
+    1687 Winner's Circle Inc
+    1576 Winners' Circle
+    2092 Winrose Enterprises
+    2043 Wisdom's Sporting Goods
+    1658 Wnc Sporting Goods
+    1518 World Of Weights Inc
+    1382 Wright Sporting Goods
+    1402 XXX Sports
+    1284 Yankee Sports
+    1187 Yeager's Sporting Goods/marine
+    1667 Young Guns Inc
+    1129 Zide's Sport Shop Inc
+    1241 Zide's Sports Shop
+    1141 Zides Sport
